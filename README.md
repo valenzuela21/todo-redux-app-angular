@@ -8,6 +8,9 @@
 ```
 cd 03-todo-app
 ng serve
+or
+ng serve -o
+
 ```
 
 ## Production
