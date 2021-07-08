@@ -4,4 +4,14 @@
 
 [Demo List Todo](https://valenzuela21.github.io/todo-redux-app-angular/)
 
+## Development
+```
+cd 03-todo-app
+ng serve
+```
 
+## Production
+
+```
+ng build --prod
+```
